@@ -5,3 +5,6 @@
 #Data source: BRFSS 2014
 #Methods: Data cleaning, recoding, and analysis.  Categorical x categorical variables were analyzed with chi square.  Categorical x continous variables were analyzed with ANOVA or t test. 
 #Software: R Studio.  Packages include foreign, MASS, dplyr, quesionr. 
+
+
+#New concepts include Macro in R.
